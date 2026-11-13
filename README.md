@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Mayank Rajoria
 
-<!--
-**rajoriamayank001-alt/rajoriamayank001-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Graduate
 
-Here are some ideas to get you started:
+💻 Passionate about C Programming and Embedded Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Currently learning Embedded C and C++.
+- Interested in Embedded Systems and Firmware Development.
+- Building practical projects using C Programming.
+
+## 🛠️ Technical Skills
+- C Programming
+- C++
+- Pointers and Memory Management
+- File Handling
+- Linux Basics
+- Git & GitHub
+
+## 📂 My Projects
+
+### 1. Steganography
+Image Steganography using LSB technique in C.
+- Encoding and Decoding
+- BMP Image Processing
+- Bitwise Operations
+
+[View Project](https://github.com/rajoriamayank001-alt/steganography)
+
+### 2. Address Book
+Contact Management System using C.
+- Add and Manage Contacts
+- File Handling
+- Structures and Pointers
+
+[View Project](https://github.com/rajoriamayank001-alt/Address_book)
+
+## 📫 Connect With Me
+- GitHub: [Mayank Rajoria](https://github.com/rajoriamayank001-alt)
